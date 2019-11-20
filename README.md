@@ -50,3 +50,5 @@ The project already contains an accounts app which will be used for handling use
 
 You can try to register and login 
 
+You can follow this [article]() for the rest of the instructions.
+
