@@ -2,7 +2,7 @@
 
 This is a phone book application that allows users to store telephone numbers along with email addresses and images for friends and family.
 
-This project serves as a basic introduction to djago's class based views which I cover in this [article]()
+This project serves as a basic introduction to djago's class based views which I cover in this [article](https://devfolio.herokuapp.com/blog/2019/11/21/class-based-views/)
 
 #### Project setup
 Clone or download this repository to a location on your machine. Change into the `contactscout` directory with the following commad.
@@ -50,5 +50,5 @@ The project already contains an accounts app which will be used for handling use
 
 You can try to register and login 
 
-You can follow this [article]() for the rest of the instructions.
+You can follow this [article](https://devfolio.herokuapp.com/blog/2019/11/21/class-based-views/) for the rest of the instructions.
 
